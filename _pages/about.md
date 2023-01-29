@@ -18,12 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I received his B.E. degree in Electronic and Information Engineering from Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree in signal and information processing with the school of communications and electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by Prof.Yuming Fang<a href='[https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl]'>, in Jiangxi University of Finance and Economics, Nanchang, China. 
+  
 My research interest includes mage processing, image captioning and pattern recognition. I have published 9 papers at the international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
 - *2022.12*: &nbsp;🎉🎉 I have defended my doctoral dissertation and received my PhD degree from Jiangxi University of Finance and Economics.  
 - *2022.10*: &nbsp;🎉🎉 One paper are accepted by VCIP 2022.
+- *2022.3*: &nbsp;🎉🎉 One paper are accepted by Pattern Recogition.
+- *2022.3*: &nbsp;🎉🎉 One paper are accepted by ICASSP 2022.
 
 # 📝 Publications 
 
@@ -38,10 +41,10 @@ My research interest includes mage processing, image captioning and pattern reco
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='images/icassp_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[INFORMATIVE ATTENTION SUPERVISION FOR GROUNDED VIDEO DESCRIPTION](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Informative_Attention_Supervision_for_Grounded_Video_Description.pdf)
+[Informative Attention Supervision for Grounded Video Description](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Informative_Attention_Supervision_for_Grounded_Video_Description.pdf)
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang
 
@@ -49,55 +52,49 @@ My research interest includes mage processing, image captioning and pattern reco
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recogition</div><img src='images/pr2021_fig_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Revisiting image captioning via maximum discrepancy competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Revisiting%20image%20captioning%20via%20maximum%20discrepancy%20competition.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Boyang Wan**, Wenhui Jiang, Yuming Fang, Minwei Zhu, Qin Li, Yang Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IET IP</div><img src='images/ietdata.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Anomaly Detection in Video Sequences: A Benchmark and Computational Model](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/IET%20Image%20Processing%20-%202021%20-%20Wan%20-%20Anomaly%20detection%20in%20video%20sequences%20%20A%20benchmark%20and%20computational%20model.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Boyang Wan**, Wenhui Jiang, Yuming Fang, Zhiyuan Luo, Guanqun Ding
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/wanboyang/anomaly_detection_LAD2000) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Weakly Supervised Video Anomaly Detection via Center-Guided Discriminative Learning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Weakly_Supervised_Video_Anomaly_Detection_via_Center-Guided_Discriminative_Learning.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Boyang Wan**, Yuming Fang, Xue Xia, Jiajie Mei
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
+- *2020.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
+- *2019.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2022.12*, Jiangxi University of Finance and Economics, PHD IN SERVICE COMPUTING AND APPLICATIONS, Advisor: Pro. Yuming Fang. 
+- *2015.09 - 2018.06*, Jiangxi Science and Technology Normal University. MS IN SIGNAL AND INFORMATION PROCESSING, Advisor: Pro. Zhijian Yin. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.06*, Weakly Supervised Video Anomaly Detection via Center-guided Discriminative Learning. IEEE ICME, Landon, UK. (Virtual)
+- *2022.03*, Informative Attention Supervision for Grounded Video Description. IEEE ICASSP, Singapore. (Virtual)
+- *2022.12*, Dual-stream Self-attention Network for Image Captioning. IEEE VCIP, Suzhou, China. (Virtual)
