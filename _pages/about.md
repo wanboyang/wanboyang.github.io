@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received his B.E. degree in Electronic and Information Engineering from Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree in signal and information processing with the school of communications and electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by Prof.Yuming Fang<a href='[https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl]'>, in Jiangxi University of Finance and Economics, Nanchang, China. 
+I received his B.E. degree in Electronic and Information Engineering from Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree in signal and information processing with the school of communications and electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by Prof.Yuming Fang<a href='[https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl]'> , in Jiangxi University of Finance and Economics, Nanchang, China. 
   
 My research interest includes mage processing, image captioning and pattern recognition. I have published 9 papers at the international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -73,7 +73,7 @@ My research interest includes mage processing, image captioning and pattern reco
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2020</div><img src='images/icme2020_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised Video Anomaly Detection via Center-Guided Discriminative Learning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Weakly_Supervised_Video_Anomaly_Detection_via_Center-Guided_Discriminative_Learning.pdf)
