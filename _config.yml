@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Boyang Wan"
+title                    : "Boyang Wan (万博洋)"
 description              : "Computer vision, Cross Media AI. Visual Captioning, Anomaly Detection. "
 repository               : "wanboyang/wanboyang.github.io"
 google_scholar_stats_use_cdn : true
