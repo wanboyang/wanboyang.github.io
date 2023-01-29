@@ -27,7 +27,7 @@ My research interest includes mage processing, image captioning and pattern reco
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2022</div><img src='images/vcip_2022_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-stream Self-attention Network for Image Captioning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/VCIP2022.pdf)
