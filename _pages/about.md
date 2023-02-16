@@ -16,13 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+I am working at the Artifical Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University.
 I received my B.E. degree in Electronic and Information Engineering from Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree in signal and information processing with the school of communications and electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
   
 My research interest includes visual understanding, image captioning and pattern recognition. I have published 9 papers at the international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
+- *2023.2*: &nbsp;🎉🎉 I join the Artifical Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University as a lecturer in China.  
 - *2022.12*: &nbsp;🎉🎉 I have defended my doctoral dissertation and received my PhD degree from Jiangxi University of Finance and Economics.  
 - *2022.10*: &nbsp;🎉🎉 One paper are accepted by VCIP 2022.
 - *2022.3*: &nbsp;🎉🎉 One paper are accepted by Pattern Recogition.
