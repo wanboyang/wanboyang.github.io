@@ -31,7 +31,7 @@ My research interest includes visual understanding, image captioning and pattern
 - *2022.3*: &nbsp;🎉🎉 One paper are accepted by ICASSP 2022.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICNNICE 2024</div><img src='images/vcip_2022_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICNNICE 2024</div><img src='images/icc2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MMLoc: A Multi-instance Multi-label Learning Approach for Predicting Protein Subcellular Localization from Immunofluorescence Images
