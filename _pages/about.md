@@ -34,9 +34,9 @@ My research interest includes visual understanding, image captioning and pattern
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICNNICE 2024</div><img src='images/vcip_2022_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MMLoc: A Multi-instance Multi-label Learning Approach for Predicting Protein Subcellular Localization from Immunofluorescence Images]
+MMLoc: A Multi-instance Multi-label Learning Approach for Predicting Protein Subcellular Localization from Immunofluorescence Images
 
-Zhihai Zhang, Boyang Wan, Suwan Zhu, Fan Yang*
+Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
