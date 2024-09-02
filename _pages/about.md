@@ -32,7 +32,7 @@ My research interest includes visual understanding, image captioning and pattern
 - *2022.3*: &nbsp;🎉🎉 One paper are accepted by ICASSP 2022.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/icc2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/ICBIT2024_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Protein Subcellular Localization Prediction based on Residual Kolmogorov-Arnold Networks
