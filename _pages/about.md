@@ -23,6 +23,7 @@ My research interest includes visual understanding, image captioning and pattern
 
 
 # 🔥 News
+- *2024.8*: &nbsp;🎉🎉 One paper are accepted by International Conference on Biomedical and Technological Innovation 2024.
 - *2024.2*: &nbsp;🎉🎉 One paper are accepted by International Conference on Neural Networks, Information and Communication Engineering 2024.
 - *2023.2*: &nbsp;🎉🎉 I join the Artifical Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University as a lecturer in China.  
 - *2022.12*: &nbsp;🎉🎉 I have defended my doctoral dissertation and received my PhD degree from Jiangxi University of Finance and Economics.  
@@ -31,6 +32,16 @@ My research interest includes visual understanding, image captioning and pattern
 - *2022.3*: &nbsp;🎉🎉 One paper are accepted by ICASSP 2022.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/icc2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Protein Subcellular Localization Prediction based on Residual Kolmogorov-Arnold Networks
+
+Xiaoyang Huang **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICNNICE 2024</div><img src='images/icc2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
