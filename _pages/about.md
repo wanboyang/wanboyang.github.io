@@ -16,10 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am working at the Artifical Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University.
-I received my B.E. degree in Electronic and Information Engineering from Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, which is advised by Prof. Zhijian Yan and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/),in signal and information processing with the school of communications and electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
+I have become a master's supervisor and have started mentoring master's students now. 
+I am working at the Artificial Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University.
+I received my B.E. degree in Electronic and Information Engineering from the Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, which is advised by Prof. Zhijian Yan and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/), in signal and information processing with the School of Communications and Electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
   
-My research interest includes visual understanding, image captioning and pattern recognition. I have published 10 papers at the international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes visual understanding, image captioning, and pattern recognition. I have published 10 papers at international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 👨‍🎓 Students
 
@@ -168,3 +169,8 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 - *2020.06*, Weakly Supervised Video Anomaly Detection via Center-guided Discriminative Learning. IEEE ICME, Landon, UK. (Virtual)
 - *2022.03*, Informative Attention Supervision for Grounded Video Description. IEEE ICASSP, Singapore. (Virtual)
 - *2022.12*, Dual-stream Self-attention Network for Image Captioning. IEEE VCIP, Suzhou, China. (Virtual)
+
+  
+#  💰 Funding
+2023, Doctoral Start-up Fund, 150,000 RMB
+2024, Jiangxi Provincial Natural Science Foundation Youth Fund, 100,000 RMB
