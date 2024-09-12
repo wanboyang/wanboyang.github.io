@@ -21,11 +21,12 @@ I received my B.E. degree in Electronic and Information Engineering from Polytec
   
 My research interest includes visual understanding, image captioning and pattern recognition. I have published 10 papers at the international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-#👨‍🎓 Students
+👨‍🎓 Students
+
 PhD Students
 <div class="student-grid">
   <div class="student-item">
-    <img src="images/储晨曦圆形大头照.png" alt="储晨曦" class="student-avatar">
+    <img src="images/储晨曦圆形大头照.png" alt="储晨曦（Visiting Student）" class="student-avatar">
     <p>储晨曦</p>
   </div>
 </div>
@@ -36,11 +37,11 @@ Master's Students
     <p>徐佳仅</p>
   </div>
   <div class="student-item">
-    <img src="images/朱思惠圆形大头照.png" alt="朱思惠" class="student-avatar">
+    <img src="images/朱思惠圆形大头照.png" alt="朱思惠（Co-advised）" class="student-avatar">
     <p>朱思惠</p>
   </div>
   <div class="student-item">
-    <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬" class="student-avatar">
+    <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬（Co-advised）" class="student-avatar">
     <p>黄潇扬</p>
   </div>
 </div>
