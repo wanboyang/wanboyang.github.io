@@ -21,7 +21,7 @@ I received my B.E. degree in Electronic and Information Engineering from Polytec
   
 My research interest includes visual understanding, image captioning and pattern recognition. I have published 10 papers at the international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> google scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-👨‍🎓 Students
+# 👨‍🎓 Students
 
 PhD Students
 <div class="student-grid">
