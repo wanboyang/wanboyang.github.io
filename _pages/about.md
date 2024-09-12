@@ -27,7 +27,7 @@ My research interest includes visual understanding, image captioning, and patter
 PhD Students
 <div class="student-grid">
   <div class="student-item">
-    <img src="images/储晨曦圆形大头照.png" alt="储晨曦" class="student-avatar">
+    <img src="images/apple-touch-icon.png" alt="储晨曦" class="student-avatar">
     <p>储晨曦</p>
     <p class="student-description">Visiting Student</p>
   </div>
