@@ -26,32 +26,27 @@ My research interest includes visual understanding, image captioning and pattern
 PhD Students
 <div class="student-grid">
   <div class="student-item">
-    <img src="images/储晨曦圆形大头照.png" alt="储晨曦（Visiting Student）" class="student-avatar">
+    <img src="images/储晨曦圆形大头照.png" alt="储晨曦" class="student-avatar">
     <p>储晨曦</p>
+    <p class="student-description">Visiting Student</p>
   </div>
 </div>
 Master Students
 <div class="student-grid">
     <div class="student-item">
-    <img src="images/朱思惠圆形大头照.png" alt="朱思惠（Co-advised）" class="student-avatar">
+    <img src="images/朱思惠圆形大头照.png" alt="朱思惠" class="student-avatar">
     <p>朱思惠</p>
+    <p class="student-description">Co-advised</p>
   </div>
   <div class="student-item">
-    <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬（Co-advised）" class="student-avatar">
+    <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬" class="student-avatar">
     <p>黄潇扬</p>
+    <p class="student-description">Co-advised</p>
   </div>
   <div class="student-item">
     <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
     <p>徐佳仅</p>
   </div>
-<!--   <div class="student-item">
-    <img src="images/朱思惠圆形大头照.png" alt="朱思惠（Co-advised）" class="student-avatar">
-    <p>朱思惠</p>
-  </div>
-  <div class="student-item">
-    <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬（Co-advised）" class="student-avatar">
-    <p>黄潇扬</p>
-  </div> -->
 </div>
 <style>
 .student-grid {
@@ -68,6 +63,11 @@ Master Students
   height: 100px;
   border-radius: 50%;
   object-fit: cover;
+}
+.student-description {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: -10px;
 }
 </style>
 
