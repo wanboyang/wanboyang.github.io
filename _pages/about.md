@@ -32,11 +32,7 @@ PhD Students
 </div>
 Master Students
 <div class="student-grid">
-  <div class="student-item">
-    <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
-    <p>徐佳仅</p>
-  </div>
-  <div class="student-item">
+    <div class="student-item">
     <img src="images/朱思惠圆形大头照.png" alt="朱思惠（Co-advised）" class="student-avatar">
     <p>朱思惠</p>
   </div>
@@ -44,6 +40,18 @@ Master Students
     <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬（Co-advised）" class="student-avatar">
     <p>黄潇扬</p>
   </div>
+  <div class="student-item">
+    <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
+    <p>徐佳仅</p>
+  </div>
+<!--   <div class="student-item">
+    <img src="images/朱思惠圆形大头照.png" alt="朱思惠（Co-advised）" class="student-avatar">
+    <p>朱思惠</p>
+  </div>
+  <div class="student-item">
+    <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬（Co-advised）" class="student-avatar">
+    <p>黄潇扬</p>
+  </div> -->
 </div>
 <style>
 .student-grid {
