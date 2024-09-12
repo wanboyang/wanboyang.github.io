@@ -30,7 +30,7 @@ PhD Students
     <p>储晨曦</p>
   </div>
 </div>
-Master's Students
+Master Students
 <div class="student-grid">
   <div class="student-item">
     <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
