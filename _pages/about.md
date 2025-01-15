@@ -78,7 +78,7 @@ Master Students
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/ICBIT2024_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Protein Subcellular Localization Prediction based on Residual Kolmogorov-Arnold Networks
+[Protein Subcellular Localization Prediction based on Residual Kolmogorov-Arnold Networks](https://dl.acm.org/doi/abs/10.1145/3700486.3700490)
 
 Xiaoyang Huang **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
 </div>
