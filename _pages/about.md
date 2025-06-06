@@ -21,6 +21,7 @@ redirect_from:
 <span style="color: red; font-weight: bold;">2025 Graduate Admissions:</span> There are still vacancies for the Master of Electronic Information (MA). Welcome to contact me.
 
 I have become a master's supervisor and have started mentoring master students now. 
+I am working at the <a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">Bio-information Perception and Multimodal Intelligence Research Team (生物信息感知与多模态智能研究团队)</a> of Jiangxi Science and Technology Normal University.<br>
 I am working at the Artificial Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University.
 I received my B.E. degree in Electronic and Information Engineering from the Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, which is advised by Prof. Zhijian Yan and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/), in signal and information processing with the School of Communications and Electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
   
