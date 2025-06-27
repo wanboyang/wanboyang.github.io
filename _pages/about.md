@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span style="color: red; font-weight: bold;">2025级研究生招生，目前还有电子信息专硕名额，欢迎联系。</span>  MA
+<span style="color: red; font-weight: bold;">2025级研究生招生：</span>目前电子信息专硕名额已招满，感谢关注。  
 
-<span style="color: red; font-weight: bold;">2025 Graduate Admissions:</span> There are still vacancies for the Master of Electronic Information (MA). Welcome to contact me.
+<span style="color: red; font-weight: bold;">2025 Graduate Admissions:</span>The quota for the Master of Electronic Information (MA) has been fully filled. Thank you for your attention.
 
 I have become a master's supervisor and have started mentoring master students now. 
 I am working at the <a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">Bio-information Perception and Multimodal Intelligence Research Team (生物信息感知与多模态智能研究团队)</a> of Jiangxi Science and Technology Normal University.<br>
