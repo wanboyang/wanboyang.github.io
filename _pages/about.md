@@ -20,10 +20,10 @@ redirect_from:
 
 <span style="color: red; font-weight: bold;">2025 Graduate Admissions:</span>The quotas for the Master of Electronic Science and Technology, Master of Intelligent Science and Technology, and Master of Electronic Information (MA) have all been fully filled. Thank you for your attention.
 
-I have become a master's supervisor and have started mentoring master students now. 
+I have become a master's supervisor and have started mentoring master's students now. 
 I am working at the <a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">Bio-information Perception and Multimodal Intelligence Research Team (生物信息感知与多模态智能研究团队)</a> of Jiangxi Science and Technology Normal University.<br>
 I am working at the Artificial Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University.
-I received my B.E. degree in Electronic and Information Engineering from the Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, which is advised by Prof. Zhijian Yan and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/), in signal and information processing with the School of Communications and Electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which is advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
+I received my B.E. degree in Electronic and Information Engineering from the Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, which was advised by Prof. Zhijian Yan and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/), in signal and information processing with the School of Communications and Electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which was advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
   
 My research interest includes visual understanding, image captioning, and pattern recognition. I have published 10 papers at international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -94,6 +94,16 @@ Master Students
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Biomedical and Health Informatics</div><img src='images/EGA-Ploc.png' alt="EGA-Ploc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
+EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images
+Boyang Wan, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
+</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Asia Pacific Bioinformatics Conference (2025)</div><img src='images/SAPLoc_ms2.png' alt="SAPLoc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
+SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images
+Yang Qiao, Boyang Wan, Yonghui Hong, Ruixi Xiao and Fan Yang
+</div></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/ICBIT2024_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
