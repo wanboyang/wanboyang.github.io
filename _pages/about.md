@@ -96,11 +96,13 @@ Master Students
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/EGA-Ploc.png' alt="EGA-Ploc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images
-Boyang Wan, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
+
+**Boyang Wan**, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APBC 2025</div><img src='images/SAPLoc_ms2.png' alt="SAPLoc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images
-Yang Qiao, Boyang Wan, Yonghui Hong, Ruixi Xiao and Fan Yang
+  
+Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
 </div></div>
 
 
@@ -109,7 +111,7 @@ Yang Qiao, Boyang Wan, Yonghui Hong, Ruixi Xiao and Fan Yang
 
 [Protein Subcellular Localization Prediction based on Residual Kolmogorov-Arnold Networks](https://dl.acm.org/doi/abs/10.1145/3700486.3700490)
 
-Xiaoyang Huang **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
+Xiaoyang Huang, **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
 </div>
 </div>
 
