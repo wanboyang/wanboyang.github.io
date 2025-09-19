@@ -79,6 +79,20 @@ Master Students
 
 
 
+
+
+# 🔥 News
+- *2025.9*: &nbsp;🎉🎉 One paper is accepted by the IEEE Journal of Biomedical and Health Informatics.
+- *2025.8*: &nbsp;🎉🎉 One paper is accepted by the The 23rd Asia Pacific Bioinformatics Conference 2025.
+- *2024.8*: &nbsp;🎉🎉 One paper is accepted by the International Conference on Biomedical and Technological Innovation 2024.
+- *2024.2*: &nbsp;🎉🎉 One paper is accepted by the International Conference on Neural Networks, Information and Communication Engineering 2024.
+- *2023.2*: &nbsp;🎉🎉 I joined the Artificial Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University as a lecturer in China.  
+- *2022.12*: &nbsp;🎉🎉 I have defended my doctoral dissertation and received my PhD degree from Jiangxi University of Finance and Economics.  
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by VCIP 2022.
+- *2022.3*: &nbsp;🎉🎉 One paper is accepted by Pattern Recogition.
+- *2022.3*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2022.
+
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/ICBIT2024_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -154,18 +168,6 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 [**Project**](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
 </div>
 </div>
-
-# 🔥 News
-- *2024.8*: &nbsp;🎉🎉 One paper are accepted by International Conference on Biomedical and Technological Innovation 2024.
-- *2024.2*: &nbsp;🎉🎉 One paper are accepted by International Conference on Neural Networks, Information and Communication Engineering 2024.
-- *2023.2*: &nbsp;🎉🎉 I join the Artifical Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University as a lecturer in China.  
-- *2022.12*: &nbsp;🎉🎉 I have defended my doctoral dissertation and received my PhD degree from Jiangxi University of Finance and Economics.  
-- *2022.10*: &nbsp;🎉🎉 One paper are accepted by VCIP 2022.
-- *2022.3*: &nbsp;🎉🎉 One paper are accepted by Pattern Recogition.
-- *2022.3*: &nbsp;🎉🎉 One paper are accepted by ICASSP 2022.
-
-
-
 
 # 🎖 Honors and Awards
 - *2021.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
