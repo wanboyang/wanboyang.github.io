@@ -37,9 +37,20 @@ PhD Students
     <p class="student-description">Visiting Student</p>
   </div>
 </div>
+
 Master Students
 <div class="student-grid">
-    <div class="student-item">
+
+  <div class="student-item">
+    <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
+    <p>徐佳仅</p>
+  </div>
+</div>
+
+<!-- 新增：毕业学生分类 -->
+Graduated Students
+<div class="student-grid">
+  <div class="student-item">
     <img src="images/朱思惠圆形大头照.png" alt="朱思惠" class="student-avatar">
     <p>朱思惠</p>
     <p class="student-description">Co-advised</p>
@@ -49,11 +60,9 @@ Master Students
     <p>黄潇扬</p>
     <p class="student-description">Co-advised</p>
   </div>
-  <div class="student-item">
-    <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
-    <p>徐佳仅</p>
-  </div>
+
 </div>
+
 <style>
 .student-grid {
   display: flex;
@@ -76,8 +85,6 @@ Master Students
   margin-top: -10px;
 }
 </style>
-
-
 
 
 
