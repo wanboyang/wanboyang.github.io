@@ -1,0 +1,24 @@
+# 导航菜单
+navigation:
+  main:
+    - title: "About Me"
+      url: "/#about-me"
+    - title: "News"
+      url: "/#-news"
+    - title: "Publications"
+      url: "/#-publications"
+    - title: "Honors and Awards"
+      url: "/#-honors-and-awards"
+    - title: "Educations"
+      url: "/#-educations"
+    - title: "Invited Talks"
+      url: "/#-invited-talks"
+    - title: "Internships"
+      url: "/#-internships"
+
+# 页面其他文本（根据实际需求添加）
+page:
+  home: "Home"
+  contact: "Contact"
+  read_more: "Read More"
+  back_to_top: "Back to Top"
