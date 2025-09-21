@@ -56,7 +56,7 @@ Master Students
   </div>
   <div class="student-item">
     <img src="images/杨顺斌照片.jpg" alt="杨顺斌" class="student-avatar">
-    <p>杨顺斌</p>
+    <p>杨顺滨</p>
   </div>
 </div>
 
