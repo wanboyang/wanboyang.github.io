@@ -16,9 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span style="color: red; font-weight: bold;">2025级研究生招生：</span>目前电子科学与技术学硕、智能科学与技术学硕和电子信息专硕名额已招满，感谢关注。  
+<span style="color: red; font-weight: bold;">2026级研究生招生：</span>目前电子科学与技术学硕和电子信息专硕还有名额。  
 
-<span style="color: red; font-weight: bold;">2025 Graduate Admissions:</span>The quotas for the Master of Electronic Science and Technology, Master of Intelligent Science and Technology, and Master of Electronic Information (MA) have all been fully filled. Thank you for your attention.
 
 I have become a master's supervisor and have started mentoring master's students now. 
 I am working at the <a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">Bio-information Perception and Multimodal Intelligence Research Team (生物信息感知与多模态智能研究团队)</a> of Jiangxi Science and Technology Normal University.<br>
@@ -115,6 +114,12 @@ Graduated Students
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/EGA-Ploc.png' alt="EGA-Ploc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images (Accepted)
+
+**Boyang Wan**, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
+
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11175487)
+[Project](https://github.com/gd-hxy/EGA-Ploc)
+</div></div>
 
 **Boyang Wan**, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
 </div></div>
