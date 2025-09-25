@@ -121,8 +121,7 @@ EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subc
 [Project](https://github.com/gd-hxy/EGA-Ploc)
 </div></div>
 
-**Boyang Wan**, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
-</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APBC 2025</div><img src='images/SAPLoc_ms2.png' alt="SAPLoc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images  (Accepted)
   
