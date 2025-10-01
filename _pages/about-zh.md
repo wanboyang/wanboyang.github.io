@@ -31,7 +31,7 @@ redirect_from:
 博士研究生
 <div class="student-grid">
   <div class="student-item">
-    <img src="images/apple-touch-icon.png" alt="储晨曦" class="student-avatar">
+    <img src="/images/apple-touch-icon.png" alt="储晨曦" class="student-avatar">
     <p>储晨曦</p>
     <p class="student-description">访问学生</p>
   </div>
@@ -40,21 +40,21 @@ redirect_from:
 硕士研究生
 <div class="student-grid">
   <div class="student-item">
-    <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
+    <img src="/images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
     <p>徐佳仅</p>
   </div>
   <!-- 新增三位在读同学 -->
   <div class="student-item">
-    <img src="images/廖海峰.jpg" alt="廖海峰" class="student-avatar">
+    <img src="/images/廖海峰.jpg" alt="廖海峰" class="student-avatar">
     <p>廖海峰</p>
   </div>
   <div class="student-item">
-    <img src="images/乔阳.jpg" alt="乔阳" class="student-avatar">
+    <img src="/images/乔阳.jpg" alt="乔阳" class="student-avatar">
     <p>乔阳</p>
     <p class="student-description">联合指导</p>
   </div>
   <div class="student-item">
-    <img src="images/杨顺斌照片.jpg" alt="杨顺斌" class="student-avatar">
+    <img src="/images/杨顺斌照片.jpg" alt="杨顺斌" class="student-avatar">
     <p>杨顺滨</p>
   </div>
 </div>
@@ -63,12 +63,12 @@ redirect_from:
 已毕业学生
 <div class="student-grid">
   <div class="student-item">
-    <img src="images/朱思惠圆形大头照.png" alt="朱思惠" class="student-avatar">
+    <img src="/images/朱思惠圆形大头照.png" alt="朱思惠" class="student-avatar">
     <p>朱思惠</p>
     <p class="student-description">联合指导</p>
   </div>
   <div class="student-item">
-    <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬" class="student-avatar">
+    <img src="/images/黄潇扬圆形大头照.png" alt="黄潇扬" class="student-avatar">
     <p>黄潇扬</p>
     <p class="student-description">联合指导</p>
   </div>
@@ -109,7 +109,7 @@ redirect_from:
 - *2022.3*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2022.
 
 # 📝 学术成果 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/EGA-Ploc.png' alt="EGA-Ploc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='/images/EGA-Ploc.png' alt="EGA-Ploc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images (Accepted)
 
 **Boyang Wan**, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
@@ -118,13 +118,13 @@ EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subc
 [Project](https://github.com/gd-hxy/EGA-Ploc)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APBC 2025</div><img src='images/SAPLoc_ms2.png' alt="SAPLoc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APBC 2025</div><img src='/images/SAPLoc_ms2.png' alt="SAPLoc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images (Accepted)
   
 Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/ICBIT2024_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='/images/ICBIT2024_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Protein Subcellular Localization Prediction based on Residual Kolmogorov-Arnold Networks](https://dl.acm.org/doi/abs/10.1145/3700486.3700490)
@@ -133,7 +133,7 @@ Xiaoyang Huang, **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICNNICE 2024</div><img src='images/icc2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICNNICE 2024</div><img src='/images/icc2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMLoc: A Multi-instance Multi-label Learning Approach for Predicting Protein Subcellular Localization from Immunofluorescence Images](https://ieeexplore.ieee.org/document/10499079)
@@ -142,7 +142,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2022</div><img src='images/vcip_2022_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2022</div><img src='/images/vcip_2022_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-stream Self-attention Network for Image Captioning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/VCIP2022.pdf)
@@ -151,7 +151,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='images/icassp_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='/images/icassp_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Informative Attention Supervision for Grounded Video Description](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Informative_Attention_Supervision_for_Grounded_Video_Description.pdf)
@@ -162,7 +162,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recogition</div><img src='images/pr2021_fig_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recogition</div><img src='/images/pr2021_fig_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revisiting image captioning via maximum discrepancy competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Revisiting%20image%20captioning%20via%20maximum%20discrepancy%20competition.pdf)
@@ -171,7 +171,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IET IP</div><img src='images/ietdata.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IET IP</div><img src='/images/ietdata.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anomaly Detection in Video Sequences: A Benchmark and Computational Model](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/IET%20Image%20Processing%20-%202021%20-%20Wan%20-%20Anomaly%20detection%20in%20video%20sequences%20%20A%20benchmark%20and%20computational%20model.pdf)
@@ -182,7 +182,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2020</div><img src='images/icme2020_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2020</div><img src='/images/icme2020_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised Video Anomaly Detection via Center-Guided Discriminative Learning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Weakly_Supervised_Video_Anomaly_Detection_via_Center-Guided_Discriminative_Learning.pdf)
