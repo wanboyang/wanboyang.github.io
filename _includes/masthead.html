@@ -11,7 +11,7 @@
           </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              <a href="{{ link.url }}">
+              <a href="{% if page.lang == 'en' %}{{ link.url }}{% else %}/zh{{ link.url }}{% endif %}">
                 {% if page.lang == 'en' %}
                   {{ link.title }}
                 {% else %}
