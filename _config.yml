@@ -10,6 +10,7 @@ title                    : "Boyang Wan (万博洋)"
 description              : "AI4SCIENCE, Cross Media AI, Visual Captioning, Anomaly Detection. "
 repository               : "wanboyang/wanboyang.github.io"
 google_scholar_stats_use_cdn : true
+lang                     : "en"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

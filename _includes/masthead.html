@@ -11,9 +11,9 @@
           </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              <a href="{{ domain }}{% if page.lang == 'en' %}/en{% endif %}{{ link.url }}">
+              <a href="{{ link.url }}">
                 {% if page.lang == 'en' %}
-                  {{ link.title_en | default: link.title }}
+                  {{ link.title }}
                 {% else %}
                   {{ link.title_zh | default: link.title }}
                 {% endif %}
@@ -23,9 +23,9 @@
           <!-- 中英文切换按钮 -->
           <li class="masthead__menu-item lang-switch">
             {% if page.lang == 'en' %}
-              <a href="{{ page.url | remove: '/en' }}">中文</a>
+              <a href="/zh/">中文</a>
             {% else %}
-              <a href="/en{{ page.url }}">English</a>
+              <a href="/">English</a>
             {% endif %}
           </li>
         </ul>

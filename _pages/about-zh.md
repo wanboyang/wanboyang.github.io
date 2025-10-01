@@ -1,12 +1,12 @@
 ---
-permalink: /
-title: "Dr."
+permalink: /zh/
+title: "万博洋博士"
 excerpt: ""
 author_profile: true
-lang: en
+lang: zh
 redirect_from: 
-  - /about/
-  - /about.html
+  - /zh/about/
+  - /zh/about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -19,26 +19,25 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <span style="color: red; font-weight: bold;">2026级研究生招生：</span>目前电子科学与技术学硕和电子信息专硕还有名额。  
 
+我已具备硕士研究生导师资格，目前正在指导硕士研究生。
+我在江西科技师范大学<a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">生物信息感知与多模态智能研究团队</a>工作。<br>
+我在江西科技师范大学人工智能与生物信息认知（AIBC）研究组工作。
+我于2012年获得江西科技师范大学理工学院电子信息工程专业学士学位，2018年获得江西科技师范大学通信与电子学院信号与信息处理专业硕士学位（导师：晏志坚教授，联合导师：[袁非牛教授](http://staff.ustc.edu.cn/~yfn/)），2022年获得江西财经大学博士学位（导师：[方玉明教授](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao)）。
 
-I have become a master's supervisor and have started mentoring master's students now. 
-I am working at the <a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">Bio-information Perception and Multimodal Intelligence Research Team (生物信息感知与多模态智能研究团队)</a> of Jiangxi Science and Technology Normal University.<br>
-I am working at the Artificial Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University.
-I received my B.E. degree in Electronic and Information Engineering from the Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, which was advised by Prof. Zhijian Yan and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/), in signal and information processing with the School of Communications and Electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which was advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
-  
-My research interest includes visual understanding, image captioning, and pattern recognition. I have published 10 papers at international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+我的研究方向包括视觉理解、图像描述和模式识别。我在国际AI会议和期刊上发表了10篇论文，<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'>Google Scholar总引用<strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)。
 
-# 👨‍🎓 Students
+# 👨‍🎓 指导学生
 
-PhD Students
+博士研究生
 <div class="student-grid">
   <div class="student-item">
     <img src="images/apple-touch-icon.png" alt="储晨曦" class="student-avatar">
     <p>储晨曦</p>
-    <p class="student-description">Visiting Student</p>
+    <p class="student-description">访问学生</p>
   </div>
 </div>
 
-Master Students
+硕士研究生
 <div class="student-grid">
   <div class="student-item">
     <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
@@ -52,7 +51,7 @@ Master Students
   <div class="student-item">
     <img src="images/乔阳.jpg" alt="乔阳" class="student-avatar">
     <p>乔阳</p>
-    <p class="student-description">Co-advised</p>
+    <p class="student-description">联合指导</p>
   </div>
   <div class="student-item">
     <img src="images/杨顺斌照片.jpg" alt="杨顺斌" class="student-avatar">
@@ -61,17 +60,17 @@ Master Students
 </div>
 
 <!-- 新增：毕业学生分类 -->
-Graduated Students
+已毕业学生
 <div class="student-grid">
   <div class="student-item">
     <img src="images/朱思惠圆形大头照.png" alt="朱思惠" class="student-avatar">
     <p>朱思惠</p>
-    <p class="student-description">Co-advised</p>
+    <p class="student-description">联合指导</p>
   </div>
   <div class="student-item">
     <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬" class="student-avatar">
     <p>黄潇扬</p>
-    <p class="student-description">Co-advised</p>
+    <p class="student-description">联合指导</p>
   </div>
 </div>
 
@@ -98,9 +97,7 @@ Graduated Students
 }
 </style>
 
-
-
-# 🔥 News
+# 🔥 新闻动态
 - *2025.9*: &nbsp;🎉🎉 One paper is accepted by the IEEE Journal of Biomedical and Health Informatics.
 - *2025.8*: &nbsp;🎉🎉 One paper is accepted by the The 23rd Asia Pacific Bioinformatics Conference 2025.
 - *2024.8*: &nbsp;🎉🎉 One paper is accepted by the International Conference on Biomedical and Technological Innovation 2024.
@@ -111,8 +108,7 @@ Graduated Students
 - *2022.3*: &nbsp;🎉🎉 One paper is accepted by Pattern Recogition.
 - *2022.3*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2022.
 
-
-# 📝 Publications 
+# 📝 学术成果 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/EGA-Ploc.png' alt="EGA-Ploc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images (Accepted)
 
@@ -122,13 +118,11 @@ EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subc
 [Project](https://github.com/gd-hxy/EGA-Ploc)
 </div></div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APBC 2025</div><img src='images/SAPLoc_ms2.png' alt="SAPLoc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
-SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images  (Accepted)
+SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images (Accepted)
   
 Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
 </div></div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICBTI 2024</div><img src='images/ICBIT2024_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,7 +133,6 @@ Xiaoyang Huang, **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICNNICE 2024</div><img src='images/icc2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -149,16 +142,12 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2022</div><img src='images/vcip_2022_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-stream Self-attention Network for Image Captioning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/VCIP2022.pdf)
 
-
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Wenying Wen, Hantao Liu
-
-
 </div>
 </div>
 
@@ -179,7 +168,6 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 [Revisiting image captioning via maximum discrepancy competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Revisiting%20image%20captioning%20via%20maximum%20discrepancy%20competition.pdf)
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Minwei Zhu, Qin Li, Yang Liu
-
 </div>
 </div>
 
@@ -205,22 +193,21 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 荣誉奖项
 - *2021.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
 - *2020.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
 - *2019.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
 
-# 📖 Educations
+# 📖 教育经历
 - *2018.09 - 2022.12*, Jiangxi University of Finance and Economics, PHD IN SERVICE COMPUTING AND APPLICATIONS, Advisor: Pro. Yuming Fang. 
 - *2015.09 - 2018.06*, Jiangxi Science and Technology Normal University. MS IN SIGNAL AND INFORMATION PROCESSING, Advisor: Pro. Zhijian Yin. 
 
-# 💬 Invited Talks
+# 💬 受邀报告
 - *2020.06*, Weakly Supervised Video Anomaly Detection via Center-guided Discriminative Learning. IEEE ICME, Landon, UK. (Virtual)
 - *2022.03*, Informative Attention Supervision for Grounded Video Description. IEEE ICASSP, Singapore. (Virtual)
 - *2022.12*, Dual-stream Self-attention Network for Image Captioning. IEEE VCIP, Suzhou, China. (Virtual)
 
-  
-#  💰 Funding
+# 💰 科研项目
 2023, Doctoral Start-up Fund, 150,000 RMB
 
 2024, Jiangxi Provincial Natural Science Foundation Youth Fund, 100,000 RMB
