@@ -22,7 +22,7 @@ redirect_from:
 我已具备硕士研究生导师资格，目前正在指导硕士研究生。
 我在江西科技师范大学<a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">生物信息感知与多模态智能研究团队</a>工作。<br>
 我在江西科技师范大学人工智能与生物信息认知（AIBC）研究组工作。
-我于2012年获得江西科技师范大学理工学院电子信息工程专业学士学位，2018年获得江西科技师范大学通信与电子学院信号与信息处理专业硕士学位（导师：晏志坚教授，联合导师：[袁非牛教授](http://staff.ustc.edu.cn/~yfn/)），2022年获得江西财经大学博士学位（导师：[方玉明教授](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao)）。
+我于2012年获得江西科技师范大学理工学院电子信息工程专业学士学位，2018年获得江西科技师范大学通信与电子学院信号与信息处理专业硕士学位（导师：殷志坚教授，联合导师：[袁非牛教授](http://staff.ustc.edu.cn/~yfn/)），2022年获得江西财经大学博士学位（导师：[方玉明教授](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao)）。
 
 我的研究方向包括视觉理解、图像描述和模式识别。我在国际AI会议和期刊上发表了10篇论文，<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'>Google Scholar总引用<strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)。
 
