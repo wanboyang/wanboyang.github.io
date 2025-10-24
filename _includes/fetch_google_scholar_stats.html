@@ -1,10 +1,14 @@
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+
 <script>
     $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
+        var gsDataBaseUrl = '{{ gsDataBaseUrl }}';
+        
+        // Fetch Google Scholar data
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
             document.getElementById('total_cit').innerHTML = totalCitation;
@@ -13,6 +17,18 @@
                 var paperId = element.getAttribute('data')
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
+            });
+        });
+
+        // Fetch GitHub stars for repositories
+        var githubStarEles = document.getElementsByClassName('show_github_stars');
+        Array.prototype.forEach.call(githubStarEles, element => {
+            var repo = element.getAttribute('data');
+            $.getJSON('https://api.github.com/repos/' + repo, function (data) {
+                var starCount = data['stargazers_count'];
+                element.innerHTML = '| GitHub Stars: ' + starCount;
+            }).fail(function() {
+                element.innerHTML = '| GitHub Stars: N/A';
             });
         });
     })

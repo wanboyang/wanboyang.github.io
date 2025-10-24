@@ -118,6 +118,9 @@ EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subc
 
 **Boyang Wan**, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
 
+<span class="show_paper_citations" data="EGA-Ploc"></span>
+<span class="show_github_stars" data="gd-hxy/EGA-Ploc"></span>
+
 [IEEE Xplore](https://ieeexplore.ieee.org/document/11175487)
 [Project](https://github.com/gd-hxy/EGA-Ploc)
 </div></div>
@@ -127,6 +130,8 @@ EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subc
 SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images  (Accepted)
   
 Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
+
+<span class="show_paper_citations" data="SAPLoc"></span>
 </div></div>
 
 
@@ -136,6 +141,8 @@ Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
 [Protein Subcellular Localization Prediction based on Residual Kolmogorov-Arnold Networks](https://dl.acm.org/doi/abs/10.1145/3700486.3700490)
 
 Xiaoyang Huang, **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
+
+<span class="show_paper_citations" data="ICBTI2024"></span>
 </div>
 </div>
 
@@ -146,6 +153,8 @@ Xiaoyang Huang, **Boyang Wan**, Si-hui Zhu, Suwan Zhu, Kaiwen Xiao, Fan Yang*
 [MMLoc: A Multi-instance Multi-label Learning Approach for Predicting Protein Subcellular Localization from Immunofluorescence Images](https://ieeexplore.ieee.org/document/10499079)
 
 Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
+
+<span class="show_paper_citations" data="ICNNICE2024"></span>
 </div>
 </div>
 
@@ -158,6 +167,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Wenying Wen, Hantao Liu
 
+<span class="show_paper_citations" data="VCIP2022"></span>
 
 </div>
 </div>
@@ -168,6 +178,9 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 [Informative Attention Supervision for Grounded Video Description](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Informative_Attention_Supervision_for_Grounded_Video_Description.pdf)
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang
+
+<span class="show_paper_citations" data="ICASSP2022"></span>
+<span class="show_github_stars" data="wanboyang/IASGVD_ICASSP2022"></span>
 
 [**Project**](https://github.com/wanboyang/IASGVD_ICASSP2022)
 </div>
@@ -180,6 +193,8 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Minwei Zhu, Qin Li, Yang Liu
 
+<span class="show_paper_citations" data="PatternRecognition2021"></span>
+
 </div>
 </div>
 
@@ -189,6 +204,9 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 [Anomaly Detection in Video Sequences: A Benchmark and Computational Model](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/IET%20Image%20Processing%20-%202021%20-%20Wan%20-%20Anomaly%20detection%20in%20video%20sequences%20%20A%20benchmark%20and%20computational%20model.pdf)
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Zhiyuan Luo, Guanqun Ding
+
+<span class="show_paper_citations" data="IETIP2021"></span>
+<span class="show_github_stars" data="wanboyang/anomaly_detection_LAD2000"></span>
 
 [**Project**](https://github.com/wanboyang/anomaly_detection_LAD2000) 
 </div>
@@ -200,6 +218,9 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 [Weakly Supervised Video Anomaly Detection via Center-Guided Discriminative Learning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Weakly_Supervised_Video_Anomaly_Detection_via_Center-Guided_Discriminative_Learning.pdf)
 
 **Boyang Wan**, Yuming Fang, Xue Xia, Jiajie Mei
+
+<span class="show_paper_citations" data="ICME2020"></span>
+<span class="show_github_stars" data="wanboyang/Anomaly_AR_Net_ICME_2020"></span>
 
 [**Project**](https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020)
 </div>
