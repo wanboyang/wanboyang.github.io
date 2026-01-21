@@ -114,6 +114,8 @@ EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subc
 
 **Boyang Wan**, Xiaoyang Huang, Yang Qiao, Jiajie Peng, Fan Yang
 
+[PDF](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/EGA-Ploc_An_Efficient_Global-Local_Attention_Model_for_Multi-Label_Protein_Subcellular_Localization_Prediction_on_the_Immunohistochemistry_Images.pdf)
+
 <span class="show_paper_citations" data="EGA-Ploc"></span>
 <span class="show_github_stars" data="gd-hxy/EGA-Ploc"></span>
 
@@ -217,10 +219,6 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-# 🎖 荣誉奖项
-- *2021.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
-- *2020.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
-- *2019.10* The First Prize Scholarship, Jiangxi University of Finance and Economics
 
 # 📖 教育经历
 - *2018.09 - 2022.12*, Jiangxi University of Finance and Economics, PHD IN SERVICE COMPUTING AND APPLICATIONS, Advisor: Pro. Yuming Fang. 
