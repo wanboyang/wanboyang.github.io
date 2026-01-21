@@ -244,4 +244,4 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 
 2024, Jiangxi Provincial Natural Science Foundation Youth Fund, 100,000 RMB
 
-2025, Jiangxi Science and Technology Normal University Top Talent Project, 100,000 RMB
+2025, Jiangxi Science and  Technology Normal University Top Talent Project, 100,000 RMB

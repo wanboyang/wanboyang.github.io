@@ -230,8 +230,8 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 - *2022.12*, Dual-stream Self-attention Network for Image Captioning. IEEE VCIP, Suzhou, China. (Virtual)
 
 # 💰 科研项目
-2023, Doctoral Start-up Fund, 150,000 RMB
+2023, 江西科技师范大学博士启动基金 150,000 RMB
 
-2024, Jiangxi Provincial Natural Science Foundation Youth Fund, 100,000 RMB
+2024, 江西省自然科学基金青年项目, 100,000 RMB
 
-2025，江西科技师范大学拔尖人才项目，100000 RMB
+2025, 江西科技师范大学拔尖人才项目, 100,000 RMB
