@@ -135,6 +135,16 @@ Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
 
 [PDF](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/SAPLOC.pdf)
 
+```bibtex
+@inproceedings{qiao2025saploc,
+  title={SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Model via Sparse Self-Attention Visual Encoding on the Immunohistochemistry Images},
+  author={Qiao, Yang and Wan, Boyang and Hong, Yonghui and Xiao, Ruixi and Yang, Fan},
+  booktitle={The 23rd Asia Pacific Bioinformatics Conference (APBC)},
+  pages={617--632},
+  year={2025}
+}
+```
+
 <span class="show_paper_citations" data="SAPLoc"></span>
 </div></div>
 
