@@ -133,6 +133,8 @@ SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Mode
   
 Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
 
+[PDF](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/SAPLOC.pdf)
+
 <span class="show_paper_citations" data="SAPLoc"></span>
 </div></div>
 
@@ -233,10 +235,6 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 - *2018.09 - 2022.12*, Jiangxi University of Finance and Economics, PHD IN SERVICE COMPUTING AND APPLICATIONS, Advisor: Pro. Yuming Fang. 
 - *2015.09 - 2018.06*, Jiangxi Science and Technology Normal University. MS IN SIGNAL AND INFORMATION PROCESSING, Advisor: Pro. Zhijian Yin. 
 
-# 💬 Invited Talks
-- *2020.06*, Weakly Supervised Video Anomaly Detection via Center-guided Discriminative Learning. IEEE ICME, Landon, UK. (Virtual)
-- *2022.03*, Informative Attention Supervision for Grounded Video Description. IEEE ICASSP, Singapore. (Virtual)
-- *2022.12*, Dual-stream Self-attention Network for Image Captioning. IEEE VCIP, Suzhou, China. (Virtual)
 
   
 #  💰 Funding
