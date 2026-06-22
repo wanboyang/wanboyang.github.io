@@ -17,7 +17,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span style="color: red; font-weight: bold;">2026级研究生招生：</span>目前电子科学与技术学硕和电子信息专硕还有名额。  
+<span style="color: red; font-weight: bold;">2026级研究生招生：</span>名额已满，感谢关注！  
 
 我已具备硕士研究生导师资格，目前正在指导硕士研究生。
 我在江西科技师范大学<a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">生物信息感知与多模态智能研究团队</a>工作。<br>

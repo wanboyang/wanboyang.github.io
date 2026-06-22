@@ -17,7 +17,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span style="color: red; font-weight: bold;">2026级研究生招生：</span>目前电子科学与技术学硕和电子信息专硕还有名额。  
+<span style="color: red; font-weight: bold;">2026级研究生招生：</span>名额已满，感谢关注！  
 
 
 I have become a master's supervisor and have started mentoring master's students now. 
