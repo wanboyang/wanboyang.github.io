@@ -98,7 +98,7 @@ redirect_from:
 </style>
 
 # 🔥 新闻动态
-- *2026.7*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026.
+- *2026.7*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026 (Oral).
 - *2025.9*: &nbsp;🎉🎉 One paper is accepted by the IEEE Journal of Biomedical and Health Informatics.
 - *2025.8*: &nbsp;🎉🎉 One paper is accepted by the The 23rd Asia Pacific Bioinformatics Conference 2025.
 - *2024.8*: &nbsp;🎉🎉 One paper is accepted by the International Conference on Biomedical and Technological Innovation 2024.
@@ -112,7 +112,7 @@ redirect_from:
 # 📝 学术成果 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='/images/prcv2026_framework.png' alt="DS-MAD framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-[Exposing Generalization Gaps in Industrial Anomaly Detection under Distribution Shift via Maximum Discrepancy Competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/PRCV2026.pdf) (Accepted)
+[Exposing Generalization Gaps in Industrial Anomaly Detection under Distribution Shift via Maximum Discrepancy Competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/PRCV2026.pdf) (Oral, Accepted)
 
 Jiajin Xu, Haifeng Liao, **Boyang Wan**, Xiujuan Zhao, Fan Yang
 
