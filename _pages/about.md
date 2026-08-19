@@ -101,6 +101,7 @@ Graduated Students
 
 
 # 🔥 News
+- *2026.7*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026.
 - *2025.9*: &nbsp;🎉🎉 One paper is accepted by the IEEE Journal of Biomedical and Health Informatics.
 - *2025.8*: &nbsp;🎉🎉 One paper is accepted by the The 23rd Asia Pacific Bioinformatics Conference 2025.
 - *2024.8*: &nbsp;🎉🎉 One paper is accepted by the International Conference on Biomedical and Technological Innovation 2024.
@@ -113,6 +114,19 @@ Graduated Students
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/prcv2026_framework.png' alt="DS-MAD framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
+
+[Exposing Generalization Gaps in Industrial Anomaly Detection under Distribution Shift via Maximum Discrepancy Competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/PRCV2026.pdf) (Accepted)
+
+Jiajin Xu, Haifeng Liao, **Boyang Wan**, Xiujuan Zhao, Fan Yang
+
+<span class="show_github_stars" data="hbqdcq-hx/DS-MAD"></span>
+
+[PDF](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/PRCV2026.pdf)
+[**Project**](https://github.com/hbqdcq-hx/DS-MAD)
+</div></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-BHI</div><img src='images/EGA-Ploc.png' alt="EGA-Ploc framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 EGA-Ploc: An Efficient Global-Local Attention Model for Multi-label Protein Subcellular Localization Prediction on the Immunohistochemistry Images (Accepted)
 
