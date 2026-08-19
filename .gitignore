@@ -1,3 +1,15 @@
 _site/
 push.sh
 .DS_Store
+
+# AI 工具本地配置（不提交到仓库）
+CLAUDE.md
+AGENTS.md
+.cursorrules
+.cursor/
+.github/copilot-instructions.md
+.codex/
+.gemini/
+.windsurfrules
+.aider*
+.continue/
