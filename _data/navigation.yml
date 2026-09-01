@@ -31,5 +31,6 @@ main:
     title_zh: "实习经历"
     url: "/#-internships"
 
-    #   - title: "Funding"
-    # url: "/#-Funding"
+  - title: "Teaching"
+    title_zh: "教学"
+    url: "/harmonyos/"
