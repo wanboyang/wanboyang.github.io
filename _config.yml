@@ -16,7 +16,7 @@ lang                     : "en"
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # global visit map (Cloudflare Worker)
-visit_stats_api          : "https://REPLACE-WITH-YOUR-WORKER.workers.dev"
+visit_stats_api          : "https://visit-stat.visit-stat-worker.workers.dev"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
