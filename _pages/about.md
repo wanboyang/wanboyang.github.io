@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr."
+title: "Boyang Wan (万博洋)"
 excerpt: ""
 author_profile: true
 lang: en
@@ -23,16 +23,17 @@ redirect_from:
 I have become a master's supervisor and have started mentoring master's students now. 
 I am working at the <a href="https://xxgc.jxstnu.edu.cn/info/1013/27651.htm">Bio-information Perception and Multimodal Intelligence Research Team (生物信息感知与多模态智能研究团队)</a> of Jiangxi Science and Technology Normal University.<br>
 I am working at the Artificial Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University.
-I received my B.E. degree in Electronic and Information Engineering from the Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, which was advised by Prof. Zhijian Yan and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/), in signal and information processing with the School of Communications and Electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, which was advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao) , from Jiangxi University of Finance and Economics, Nanchang, China. 
+  I received my B.E. degree in Electronic and Information Engineering from the Polytechnic Institute of Jiangxi Science and Technology Normal University in 2012, and the M.S. degree, advised by Prof. Zhijian Yin and co-advised by [Prof. Feiniu Yuan](http://staff.ustc.edu.cn/~yfn/), in signal and information processing with the School of Communications and Electronics, Jiangxi Science and Technology Normal University, Nanchang, China, in 2018. In 2022, I obtained the Ph.D. degree, advised by [Prof. Yuming Fang](https://scholar.google.com/citations?user=_Tu-eHkAAAAJ&hl=zh-CN&oi=ao), from Jiangxi University of Finance and Economics, Nanchang, China. 
   
-My research interest includes visual understanding, image captioning, and pattern recognition. I have published 10 papers at international AI conferences and journals with total<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'> Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+  My research focuses on AI for Science, multi-modal perception, medical and bioinformatics image analysis, visual captioning, and visual anomaly detection. I have published papers at international AI conferences and journals with <a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'>Google Scholar citations <strong><span id='total_cit'>300+</span></strong></a> (<a href='https://scholar.google.com/citations?user=xXDl1kgAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+<span class='anchor' id='students'></span>
 # 👨‍🎓 Students
 
 PhD Students
 <div class="student-grid">
   <div class="student-item">
-    <img src="images/apple-touch-icon.png" alt="储晨曦" class="student-avatar">
+    <div class="student-avatar student-avatar--initial">储</div>
     <p>储晨曦</p>
     <p class="student-description">Visiting Student</p>
   </div>
@@ -55,7 +56,7 @@ Master Students
     <p class="student-description">Co-advised</p>
   </div>
   <div class="student-item">
-    <img src="images/杨顺斌照片.jpg" alt="杨顺斌" class="student-avatar">
+    <img src="images/杨顺斌照片.jpg" alt="杨顺滨" class="student-avatar">
     <p>杨顺滨</p>
   </div>
 </div>
@@ -96,10 +97,19 @@ Graduated Students
   color: #666;
   margin-top: -10px;
 }
+.student-avatar--initial {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 34px;
+  color: #BE374B;
+  background: #eef2f7;
+}
 </style>
 
 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.7*: &nbsp;🎉🎉 One paper is accepted by PRCV 2026 (Oral).
 - *2025.9*: &nbsp;🎉🎉 One paper is accepted by the IEEE Journal of Biomedical and Health Informatics.
@@ -109,20 +119,21 @@ Graduated Students
 - *2023.2*: &nbsp;🎉🎉 I joined the Artificial Intelligence & Bio-information Cognition (AIBC) Group of Jiangxi Science and Technology Normal University as a lecturer in China.  
 - *2022.12*: &nbsp;🎉🎉 I have defended my doctoral dissertation and received my PhD degree from Jiangxi University of Finance and Economics.  
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by VCIP 2022.
-- *2022.3*: &nbsp;🎉🎉 One paper is accepted by Pattern Recogition.
+- *2022.3*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition.
 - *2022.3*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2022.
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/prcv2026_framework.png' alt="DS-MAD framework" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-[Exposing Generalization Gaps in Industrial Anomaly Detection under Distribution Shift via Maximum Discrepancy Competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/PRCV2026.pdf) (Oral, Accepted)
+[Exposing Generalization Gaps in Industrial Anomaly Detection under Distribution Shift via Maximum Discrepancy Competition](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/PRCV2026.pdf) (Oral, Accepted)
 
 Jiajin Xu, Haifeng Liao, **Boyang Wan**, Xiujuan Zhao, Fan Yang
 
 <span class="show_github_stars" data="hbqdcq-hx/DS-MAD"></span>
 
-[PDF](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/PRCV2026.pdf)
+[PDF](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/PRCV2026.pdf)
 [**Project**](https://github.com/hbqdcq-hx/DS-MAD)
 </div></div>
 
@@ -147,7 +158,7 @@ SAPLoc: An Advanced Multi-label Protein Subcellular Localization Prediction Mode
   
 Yang Qiao, **Boyang Wan**, Yonghui Hong, Ruixi Xiao and Fan Yang
 
-[PDF](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/SAPLOC.pdf)
+[PDF](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/SAPLOC.pdf)
 
 ```bibtex
 @inproceedings{qiao2025saploc,
@@ -190,7 +201,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2022</div><img src='images/vcip_2022_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dual-stream Self-attention Network for Image Captioning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/VCIP2022.pdf)
+[Dual-stream Self-attention Network for Image Captioning](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/VCIP2022.pdf)
 
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Wenying Wen, Hantao Liu
@@ -203,7 +214,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='images/icassp_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Informative Attention Supervision for Grounded Video Description](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Informative_Attention_Supervision_for_Grounded_Video_Description.pdf)
+[Informative Attention Supervision for Grounded Video Description](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/Informative_Attention_Supervision_for_Grounded_Video_Description.pdf)
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang
 
@@ -214,10 +225,10 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recogition</div><img src='images/pr2021_fig_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/pr2021_fig_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Revisiting image captioning via maximum discrepancy competition](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Revisiting%20image%20captioning%20via%20maximum%20discrepancy%20competition.pdf)
+[Revisiting image captioning via maximum discrepancy competition](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/Revisiting%20image%20captioning%20via%20maximum%20discrepancy%20competition.pdf)
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Minwei Zhu, Qin Li, Yang Liu
 
@@ -229,7 +240,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IET IP</div><img src='images/ietdata.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Anomaly Detection in Video Sequences: A Benchmark and Computational Model](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/IET%20Image%20Processing%20-%202021%20-%20Wan%20-%20Anomaly%20detection%20in%20video%20sequences%20%20A%20benchmark%20and%20computational%20model.pdf)
+[Anomaly Detection in Video Sequences: A Benchmark and Computational Model](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/IET%20Image%20Processing%20-%202021%20-%20Wan%20-%20Anomaly%20detection%20in%20video%20sequences%20%20A%20benchmark%20and%20computational%20model.pdf)
 
 **Boyang Wan**, Wenhui Jiang, Yuming Fang, Zhiyuan Luo, Guanqun Ding
 
@@ -243,7 +254,7 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2020</div><img src='images/icme2020_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Weakly Supervised Video Anomaly Detection via Center-Guided Discriminative Learning](https://github.com/wanboyang/wanboyang.github.io/blob/main/docs/Weakly_Supervised_Video_Anomaly_Detection_via_Center-Guided_Discriminative_Learning.pdf)
+[Weakly Supervised Video Anomaly Detection via Center-Guided Discriminative Learning](https://raw.githubusercontent.com/wanboyang/wanboyang.github.io/main/docs/Weakly_Supervised_Video_Anomaly_Detection_via_Center-Guided_Discriminative_Learning.pdf)
 
 **Boyang Wan**, Yuming Fang, Xue Xia, Jiajie Mei
 
@@ -255,9 +266,10 @@ Zhihai Zhang, **Boyang Wan**, Suwan Zhu, Fan Yang*
 </div>
 
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2018.09 - 2022.12*, Jiangxi University of Finance and Economics, PHD IN SERVICE COMPUTING AND APPLICATIONS, Advisor: Pro. Yuming Fang. 
-- *2015.09 - 2018.06*, Jiangxi Science and Technology Normal University. MS IN SIGNAL AND INFORMATION PROCESSING, Advisor: Pro. Zhijian Yin. 
+- *2018.09 - 2022.12*, Jiangxi University of Finance and Economics, Ph.D. in Service Computing and Applications, Advisor: Prof. Yuming Fang. 
+- *2015.09 - 2018.06*, Jiangxi Science and Technology Normal University, M.S. in Signal and Information Processing, Advisor: Prof. Zhijian Yin. 
 
 
   

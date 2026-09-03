@@ -9,6 +9,8 @@
 title                    : "Boyang Wan (万博洋)"
 description              : "AI4SCIENCE, Cross Media AI, Visual Captioning, Anomaly Detection. "
 repository               : "wanboyang/wanboyang.github.io"
+url                      : "https://wanboyang.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 lang                     : "en"
 
@@ -19,9 +21,9 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 visit_stats_api          : "https://visit-stat.visit-stat-worker.workers.dev"
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification : "449c80c473373743"  # 对应 google449c80c473373743.html
+bing_site_verification   : ""  # 在 Bing Webmaster Tools 获取后填写
+baidu_site_verification  : ""  # 在百度搜索资源平台获取后填写
 
 # Site Author
 author:
