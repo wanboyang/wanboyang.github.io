@@ -45,15 +45,10 @@ Master Students
     <img src="images/徐佳仅圆形大头照.png" alt="徐佳仅" class="student-avatar">
     <p>徐佳仅</p>
   </div>
-  <!-- 新增三位在读同学 -->
+  <!-- 在读同学 -->
   <div class="student-item">
     <img src="images/廖海峰.jpg" alt="廖海峰" class="student-avatar">
     <p>廖海峰</p>
-  </div>
-  <div class="student-item">
-    <img src="images/乔阳.jpg" alt="乔阳" class="student-avatar">
-    <p>乔阳</p>
-    <p class="student-description">Co-advised</p>
   </div>
   <div class="student-item">
     <img src="images/杨顺斌照片.jpg" alt="杨顺滨" class="student-avatar">
@@ -72,6 +67,11 @@ Graduated Students
   <div class="student-item">
     <img src="images/黄潇扬圆形大头照.png" alt="黄潇扬" class="student-avatar">
     <p>黄潇扬</p>
+    <p class="student-description">Co-advised</p>
+  </div>
+  <div class="student-item">
+    <img src="images/乔阳.jpg" alt="乔阳" class="student-avatar">
+    <p>乔阳</p>
     <p class="student-description">Co-advised</p>
   </div>
 </div>
