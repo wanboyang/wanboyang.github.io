@@ -1,0 +1,25 @@
+{% if site.visit_stats_api %}
+<section class="visit-map" aria-label="全球访问统计">
+  <div class="visit-map__header">
+    <h2>🌍 全球访问分布</h2>
+    <div class="visit-map__meta">
+      <span>累计访问 <strong id="visit-total-count">—</strong> 次</span>
+      <span id="visit-updated" class="visit-map__updated">更新于 —</span>
+    </div>
+  </div>
+  <div class="visit-map__body">
+    <div id="visit-map-svg-box" class="visit-map__svg"></div>
+    <div id="visit-map-tooltip" class="visit-map__tooltip" hidden></div>
+    <div class="visit-map__panel">
+      <h3>点击较多地区</h3>
+      <ol id="visit-top-list" class="visit-map__list"></ol>
+      <p class="visit-map__hint">地图颜色越深表示点击越多，数据每 60 秒刷新。</p>
+    </div>
+  </div>
+</section>
+<link rel="stylesheet" href="{{ '/assets/css/visit-map.css' | relative_url }}">
+<script>
+  window.VISIT_STATS_API = {{ site.visit_stats_api | jsonify }};
+</script>
+<script src="{{ '/assets/js/visit-map.js' | relative_url }}" defer></script>
+{% endif %}

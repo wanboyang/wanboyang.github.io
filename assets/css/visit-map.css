@@ -1,0 +1,51 @@
+.visit-map {
+  max-width: 960px;
+  margin: 2.5rem auto 1rem;
+  padding: 1.2rem 1.4rem 1.4rem;
+  border: 1px solid #e3e8f0;
+  border-radius: 14px;
+  background: #fbfcfe;
+  box-shadow: 0 6px 24px rgba(30, 60, 110, .06);
+}
+.visit-map__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.visit-map__header h2 { margin: 0; font-size: 1.15rem; color: #1f3a66; }
+.visit-map__meta { color: #5c6b82; font-size: .9rem; }
+.visit-map__meta strong { color: #be374b; font-size: 1.05rem; }
+.visit-map__updated { margin-left: .8rem; color: #9aa7b8; font-size: .78rem; }
+.visit-map__body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 250px;
+  gap: 1.2rem;
+  margin-top: 1rem;
+  position: relative;
+}
+.visit-map__svg svg { width: 100%; height: auto; display: block; }
+.visit-map__panel {
+  border-left: 1px solid #e3e8f0;
+  padding-left: 1.2rem;
+}
+.visit-map__panel h3 { margin: 0 0 .5rem; font-size: .98rem; color: #1f3a66; }
+.visit-map__list { margin: 0; padding-left: 1.4rem; font-size: .88rem; line-height: 1.9; }
+.visit-map__list li { cursor: default; }
+.visit-map__hint { margin-top: .9rem; color: #9aa7b8; font-size: .76rem; }
+.visit-map__tooltip {
+  position: absolute;
+  z-index: 5;
+  pointer-events: none;
+  background: rgba(24, 38, 62, .92);
+  color: #fff;
+  padding: .3rem .55rem;
+  border-radius: 6px;
+  font-size: .8rem;
+  white-space: nowrap;
+}
+@media (max-width: 760px) {
+  .visit-map__body { grid-template-columns: 1fr; }
+  .visit-map__panel { border-left: 0; padding-left: 0; border-top: 1px solid #e3e8f0; padding-top: 1rem; }
+}

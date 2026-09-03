@@ -37,6 +37,10 @@ layout: compress
       </article>
     </div>
 
+    {% if page.permalink == '/' %}
+      {% include visit-map.html %}
+    {% endif %}
+
     {% include scripts.html %}
 
   </body>
