@@ -27,7 +27,7 @@ lang: zh
 | 周 | 日期 | 教学内容 | 课件 | 作业 |
 |:---:|------|------|------|------|
 | 1 | 9/2 | 智能终端操作系统概述 | [课件 PDF](/files/harmonyos/week-01-harmonyos-slides.pdf)  | 待更新 |
-| 2 | 9/9 | OpenHarmony 概述 | [课件 PDF](/files/harmonyos/week-02-harmonyos-slides.pdf)  | 待更新 |
+| 2 | 9/9 | OpenHarmony 概述 | [课件 PDF](/files/harmonyos/week-02-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-02-homework.pdf) |
 | 3 | 9/16 | 智能终端操作系统内核 | 待更新  | 待更新 |
 | 4 | 9/23 | 处理器调度 | 待更新  | 待更新 |
 | 5 | 9/30 | 内存管理 | 待更新  | 待更新 |
