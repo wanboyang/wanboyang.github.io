@@ -56,15 +56,15 @@ Master Students
   </div>
   <!-- 新生（照片待补充） -->
   <div class="student-item">
-    <div class="student-avatar student-avatar--initial student-avatar--long">白少璇</div>
+    <div class="student-avatar student-avatar--initial">白</div>
     <p>白少璇</p>
   </div>
   <div class="student-item">
-    <div class="student-avatar student-avatar--initial student-avatar--long">白洪瑞</div>
+    <div class="student-avatar student-avatar--initial">白</div>
     <p>白洪瑞</p>
   </div>
   <div class="student-item">
-    <div class="student-avatar student-avatar--initial student-avatar--long">杨成韬</div>
+    <div class="student-avatar student-avatar--initial">杨</div>
     <p>杨成韬</p>
   </div>
 </div>
@@ -117,9 +117,6 @@ Graduated Students
   font-size: 34px;
   color: #BE374B;
   background: #eef2f7;
-}
-.student-avatar--long {
-  font-size: 17px;
 }
 </style>
 
