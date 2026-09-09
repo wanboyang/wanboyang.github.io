@@ -54,21 +54,18 @@ Master Students
     <img src="images/杨顺斌照片.jpg" alt="杨顺滨" class="student-avatar">
     <p>杨顺滨</p>
   </div>
-  <!-- 2026级新生（照片待补充） -->
+  <!-- 新生（照片待补充） -->
   <div class="student-item">
     <div class="student-avatar student-avatar--initial student-avatar--long">白少璇</div>
     <p>白少璇</p>
-    <p class="student-description">2026</p>
   </div>
   <div class="student-item">
     <div class="student-avatar student-avatar--initial student-avatar--long">白洪瑞</div>
     <p>白洪瑞</p>
-    <p class="student-description">2026</p>
   </div>
   <div class="student-item">
     <div class="student-avatar student-avatar--initial student-avatar--long">杨成韬</div>
     <p>杨成韬</p>
-    <p class="student-description">2026</p>
   </div>
 </div>
 
