@@ -29,8 +29,8 @@ lang: zh
 | 1 | 9/2 | 智能终端操作系统概述 | [课件 PDF](/files/harmonyos/week-01-harmonyos-slides.pdf)  | 待更新 |
 | 2 | 9/9 | OpenHarmony 概述 | [课件 PDF](/files/harmonyos/week-02-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-02-homework.pdf) |
 | 3 | 9/16 | 智能终端操作系统内核 | [课件 PDF](/files/harmonyos/week-03-harmonyos-slides.pdf) | 待更新 |
-| 4 | 9/23 | 处理器调度 | 待更新  | 待更新 |
-| 5 | 9/30 | 内存管理 | 待更新  | 待更新 |
+| 4 | 9/24 | 处理器调度 | [课件 PDF](/files/harmonyos/week-04-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-04-homework.pdf) |
+| 5 | 10/10 | 内存管理（国庆假期后第一课） | 待更新  | 待更新 |
 | 6 | 10/14 | 存储与文件系统（10/7 国庆停课） | 待更新  | 待更新 |
 | 7 | 10/21 | 无课：项目开题与原型开发（线上） | 实验卡  | 待更新 |
 | 8 | 10/28 | 无课：期中测验与项目中期检查（线上） | 实验卡  | 待更新 |
