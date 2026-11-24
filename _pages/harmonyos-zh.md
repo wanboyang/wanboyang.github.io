@@ -10,7 +10,7 @@ lang: zh
 
 # 鸿蒙操作系统 <small style="color:#666">L06911 · 2026–2027 第一学期</small>
 
-> 江西科技师范大学 · 信息工程学院 · 电子信息工程 25级（创新班）1班 | 3学分 · 48学时 | 14教学周（第1–6、9–16周，每周三）｜2026.9.2—2027.1.8
+> 江西科技师范大学 · 信息工程学院 · 电子信息工程 25级（创新班）1班 | 3学分 · 48学时 · 14 次课｜2026.9.2—2027.1.8
 
 <div style="background:#f8f9fa; border-left:4px solid #BE374B; padding:12px 16px; margin:16px 0; font-size:0.92em;">
 <b>主教材</b>《智能终端操作系统与OpenHarmony实践》陈海波 等，电子工业出版社，2024（ISBN 978-7-121-48972-3）<br>
@@ -24,32 +24,31 @@ lang: zh
 
 ## 教学安排与课件
 
-| 周 | 日期 | 教学内容 | 课件 | 作业 |
+| 教学周 | 日期 | 教学内容 | 课件 | 作业 |
 |:---:|------|------|------|------|
-| 1 | 9/2 | 智能终端操作系统概述 | [课件 PDF](/files/harmonyos/week-01-harmonyos-slides.pdf)  | 待更新 |
+| 1 | 9/2 | 智能终端操作系统概述 | [课件 PDF](/files/harmonyos/week-01-harmonyos-slides.pdf) | 待更新 |
 | 2 | 9/9 | OpenHarmony 概述 | [课件 PDF](/files/harmonyos/week-02-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-02-homework.pdf) |
 | 3 | 9/16 | 智能终端操作系统内核 | [课件 PDF](/files/harmonyos/week-03-harmonyos-slides.pdf) | 待更新 |
 | 4 | 9/24 | 处理器调度 | [课件 PDF](/files/harmonyos/week-04-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-04-homework.pdf) |
-| 5 | 10/10 | 内存管理（国庆假期后第一课） | [课件 PDF](/files/harmonyos/week-05-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-05-homework.pdf) |
-| 6 | 10/14 | 存储与文件系统（10/7 国庆停课） | 待更新  | 待更新 |
-| 7 | 10/21 | 无课：项目开题与原型开发（线上） | 实验卡  | 待更新 |
-| 8 | 10/28 | 无课：期中测验与项目中期检查（线上） | 实验卡  | 待更新 |
-| 9 | 11/4 | 进程间通信与设备管理 | 待更新  | 待更新 |
-| 10 | 11/11 | 图形服务与媒体服务 | 待更新  | 待更新 |
-| 11 | 11/18 | 通信服务与传感服务 | 待更新  | 待更新 |
-| 12 | 11/25 | 设备运行时服务与分布式智能终端服务 | 待更新  | 待更新 |
-| 13 | 12/2 | 分布式数据管理 | 待更新  | 待更新 |
-| 14 | 12/9 | 执行抽象与 UI 框架 | 待更新  | 待更新 |
-| 15 | 12/16 | 语言运行时与系统应用 | 待更新  | 待更新 |
-| 16 | 12/23 | 系统安全、应用开发管理与端云协同 | 待更新  | 待更新 |
+| 5 | 国庆假期 | — | — | — |
+| 6 | 10/10（周六补课） | 内存管理 | [课件 PDF](/files/harmonyos/week-06-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-06-homework.pdf) |
+| 7–8 | 10/14、10/21 停课 | — | — | — |
+| 9 | 10/28 | 存储与文件系统 | [课件 PDF](/files/harmonyos/week-09-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-09-homework.pdf) |
+| 10 | 11/4 | 进程间通信与设备管理 | [课件 PDF](/files/harmonyos/week-10-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-10-homework.pdf) |
+| 11 | 11/11 | 图形服务与媒体服务 | [课件 PDF](/files/harmonyos/week-11-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-11-homework.pdf) |
+| 12 | 11/18 | 通信服务与传感服务 | [课件 PDF](/files/harmonyos/week-12-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-12-homework.pdf) |
+| 13 | 11/25 | 设备运行时服务与分布式智能终端服务 | [课件 PDF](/files/harmonyos/week-13-harmonyos-slides.pdf) | [作业 PDF](/files/harmonyos/week-13-homework.pdf) |
+| 14 | 12/2 | 分布式数据管理（教学内容结束） | 待更新 | 待更新 |
+| 15 | 12/9 | 期末全面复习 | 待更新 | — |
+| 16 | 12/16 | 学生演示（本学期最后一次课） | 待更新 | — |
 
-> 依据《江西科技师范大学教学进度安排表（2026–2027 学年第一学期）》：每周三上课（第 1–6、9–16 教学周），第 7–8 周线上次第完成开题/原型与期中测验/中期检查；第 6 周因 10/7 国庆假期顺延至 10/14。具体节次、地点以教务课表为准。第 9–14 周每周 4 学时，其余每周 3 学时。
+> **授课日历（以实际执行为准）**：第 1–4 教学周每周三上课（9/2、9/9、9/16、9/24）；第 5 周（9/30）与第 6 周周三（10/7）为国庆假期；**10/10（周六）补课**；第 7–8 周（10/14、10/21）停课；第 9–13 周每周三上课（10/28–11/25）；第 14 周 12/2 结束教学内容；第 15 周 12/9 期末全面复习；第 16 周 12/16 学生演示。第 9–14 周每周 4 学时，其余每周 3 学时。课件文件名按教学周编号，与上表一致。
 
 ## 课程项目（做中学）
 
 - **选题**：课程学习助手 / 校园记账本 / 健康运动助手 / AI 问答助手 / 智能家居控制（可自定义）
 - **环境**：DevEco Studio 6.0+（最新版，安装时自动配套 HarmonyOS SDK）· API 14 起兼容，推荐用最新稳定版（如 API 20，HarmonyOS 6.0）· `hvigorw assembleHap`
-- **过程**：每周实验卡与理论同步 · 第7–8周开题报告+原型 · 第16周答辩
+- **过程**：每周实验卡与理论同步 · 第 7–8 周停课期间完成开题报告与原型（线上）· 第 16 周（12/16）课堂演示答辩
 - **诚信**：全量可跑 starter code + 代码走查 + 答辩；AI 辅助需声明
 
 ## 教材与资源
@@ -65,4 +64,4 @@ lang: zh
 
 ---
 
-<p style="font-size:0.85em; color:#888">最后更新：2026年9月15日 · 课件源码与 QA：见课程仓库 <code>qa_render_and_check.py flagged=0</code> · 联系：wanboyangjerry@163.com</p>
+<p style="font-size:0.85em; color:#888">最后更新：2026年11月24日 · 课件源码与 QA：见课程仓库 <code>qa_render_and_check.py flagged=0</code> · 联系：wanboyangjerry@163.com</p>
